@@ -1,7 +1,7 @@
 # 🦸 Marvel Cinematic Universe Intelligence Dashboard & Success Prediction System
 
 ## 🔴 Live Dashboard
-👉 [Open JARVIS Dashboard](https://github.com/HariPrasad017/MCU-Intelligence-Dashboard/blob/main/dashboard/MCU_Intelligence_Dashboard.html)
+👉 [Open JARVIS Dashboard](https://hariprasad017.github.io/MCU-Intelligence-Dashboard/)
 
 ## 📌 Project Overview
 
