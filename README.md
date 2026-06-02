@@ -1,5 +1,7 @@
 # 🦸 Marvel Cinematic Universe Intelligence Dashboard & Success Prediction System
 
+## 🔴 Live Dashboard
+👉 [Open JARVIS Dashboard]([https://YOUR-USERNAME.github.io/...](https://github.com/HariPrasad017/MCU-Intelligence-Dashboard/blob/main/dashboard/MCU_Intelligence_Dashboard.html))
 ## 📌 Project Overview
 
 The Marvel Cinematic Universe (MCU) is one of the most successful entertainment franchises in history, generating billions of dollars in worldwide box-office revenue across movies and streaming series.
