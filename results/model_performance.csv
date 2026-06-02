@@ -1,0 +1,4 @@
+Model,Metric
+Linear Regression,-9.593040474665672e+17
+Random Forest Regressor,-7.720941247357847e+17
+Random Forest Classifier,0.5
